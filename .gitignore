@@ -9,3 +9,6 @@ coverage/
 .idea/
 .vscode/
 *.tsbuildinfo
+docs/desafio/
+openspec/
+.agents/
